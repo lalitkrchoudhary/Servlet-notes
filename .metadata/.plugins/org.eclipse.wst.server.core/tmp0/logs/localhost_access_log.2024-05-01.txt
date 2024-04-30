@@ -1,0 +1,14 @@
+127.0.0.1 - - [01/May/2024:03:21:05 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [01/May/2024:03:21:29 +0530] "GET /ServletContextApp/WEB-INF/classes/in/lalit/controller/TestServlet.java HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [01/May/2024:03:21:35 +0530] "GET /ServletContextApp/test HTTP/1.1" 200 224
+0:0:0:0:0:0:0:1 - - [01/May/2024:03:21:36 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [01/May/2024:03:21:38 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [01/May/2024:03:22:12 +0530] "GET /ServletContextApp/test HTTP/1.1" 200 224
+0:0:0:0:0:0:0:1 - - [01/May/2024:03:22:13 +0530] "GET /ServletContextApp/test HTTP/1.1" 200 224
+127.0.0.1 - - [01/May/2024:03:22:33 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [01/May/2024:03:22:33 +0530] "GET /ServletContextApp/WEB-INF/classes/in/lalit/controller/TestServlet.java HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [01/May/2024:03:22:35 +0530] "GET /ServletContextApp/test HTTP/1.1" 200 288
+0:0:0:0:0:0:0:1 - - [01/May/2024:03:33:46 +0530] "GET /ServletContextApp/test HTTP/1.1" 200 288
+127.0.0.1 - - [01/May/2024:03:34:04 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [01/May/2024:03:34:04 +0530] "GET /ServletContextApp/WEB-INF/classes/in/lalit/controller/TestServlet.java HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [01/May/2024:03:34:14 +0530] "GET /ServletContextApp/test HTTP/1.1" 200 3793
