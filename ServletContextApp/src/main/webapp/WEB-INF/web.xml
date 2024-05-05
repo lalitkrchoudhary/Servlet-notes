@@ -1,23 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://java.sun.com/xml/ns/javaee" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" id="WebApp_ID" version="2.5">
   <display-name>ServletContextApp</display-name>
-  
   <context-param>
-  <param-name>url</param-name>
-  <param-value>jdbc:mysql://localhost:3306/apple</param-value>
+    <param-name>url</param-name>
+    <param-value>jdbc:mysql://localhost:3306/apple</param-value>
   </context-param>
-  
   <context-param>
-  <param-name>user</param-name>
-  <param-value>root</param-value>
+    <param-name>user</param-name>
+    <param-value>root</param-value>
   </context-param>
-  
   <context-param>
-  <param-name>password</param-name>
-  <param-value>lalit</param-value>
+    <param-name>password</param-name>
+    <param-value>lalit</param-value>
   </context-param>
- 
-    <servlet>
+  <servlet>
     <description></description>
     <display-name>TestServlet</display-name>
     <servlet-name>TestServlet</servlet-name>
@@ -26,5 +22,15 @@
   <servlet-mapping>
     <servlet-name>TestServlet</servlet-name>
     <url-pattern>/test</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <description></description>
+    <display-name>DemoServletApp</display-name>
+    <servlet-name>DemoServletApp</servlet-name>
+    <servlet-class>in.lalit.controller.DemoServletApp</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>DemoServletApp</servlet-name>
+    <url-pattern>/demo</url-pattern>
   </servlet-mapping>
 </web-app>
