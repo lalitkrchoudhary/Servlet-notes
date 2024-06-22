@@ -10,16 +10,16 @@
 		</section>
 	</section>
 	<section name="WorkbenchPreferenceDialog.dialogBounds">
-		<item key="DIALOG_X_ORIGIN" value="373"/>
-		<item key="DIALOG_Y_ORIGIN" value="91"/>
+		<item key="DIALOG_X_ORIGIN" value="-47"/>
+		<item key="DIALOG_Y_ORIGIN" value="-28"/>
 		<item key="DIALOG_WIDTH" value="620"/>
 		<item key="DIALOG_HEIGHT" value="560"/>
 		<item key="DIALOG_FONT_NAME" value="1|Cantarell|10.0|0|GTK|1|"/>
 	</section>
 	<section name="PropertyDialog.dialogBounds">
-		<item key="DIALOG_X_ORIGIN" value="231"/>
+		<item key="DIALOG_X_ORIGIN" value="229"/>
 		<item key="DIALOG_Y_ORIGIN" value="74"/>
-		<item key="DIALOG_WIDTH" value="903"/>
+		<item key="DIALOG_WIDTH" value="907"/>
 		<item key="DIALOG_HEIGHT" value="595"/>
 		<item key="DIALOG_FONT_NAME" value="1|Cantarell|10.0|0|GTK|1|"/>
 	</section>
