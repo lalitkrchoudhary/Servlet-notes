@@ -10,4 +10,7 @@
     <fullyQualifiedTypeName name="javax.servlet.RequestDispatcher"/>
     <fullyQualifiedTypeName name="javax.servlet.http.HttpSession"/>
     <fullyQualifiedTypeName name="java.io.PrintWriter"/>
+    <fullyQualifiedTypeName name="java.sql.ResultSet"/>
+    <fullyQualifiedTypeName name="in.lalit.factory.StudentDaoFactory"/>
+    <fullyQualifiedTypeName name="in.lalit.dto.Student"/>
 </qualifiedTypeNameHistroy>
